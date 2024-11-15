@@ -1,0 +1,12 @@
+{
+  "name": "workgo-mono",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "pnpm -r --parallel --stream dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
